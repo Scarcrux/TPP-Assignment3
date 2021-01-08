@@ -1,14 +1,14 @@
-## Assignment #3: DOM Challenges I
-# Goal
+## Assignment #3: DOM Challenges I ##
+
+## Goal
 
 Demonstrate understanding of DOM traversal and DOM manipulation. Build familiarity with JS syntax. Look into: getElementById, querySelector, getElementsByClassName, querSelectorAll, the innerText property, classList.add, className, classList.remove, createElement, appendChild. Section off the code with comments based on the particular part of the prompt you are addressing.
 
-# Direction
+## Direction
 
 This is an exercise that will help get you acclimated to the DOM API. For each individual prompt, write out the code necessary to achieve the particular task at hand. Test it out, and then move forward. If you encounter a situation where you can use a previous prompt’s solution for the one you are currently working on, feel free to keep it DRY (Do-Not-Repeat-Yourself) and leverage that reusable code. By the same token, if you encounter a situation where a previous prompt’s solution is a blocker (gets in the way of what you are trying to achieve at the moment), then prioritize the current prompt. You can comment out the code that’s blocking, test out the current code that you are working on, and after verifying that it works you can comment back in the previous code. In this way, you’ll be treating each prompt as an individual, distinct task. The primary point is to become more familiar with the DOM methods that allow you to interact and manipulate the Document Object Model.
-# Assignment
 
-Complete and submit the following based on this link (https://gist.github.com/ajLapid718/3f1caaf7365a9d9049c1b5e8b9c45d97):
+## Assignment
 
 Write the code necessary to do the following:
 
@@ -25,7 +25,7 @@ Write the code necessary to do the following:
 12) Loop over all of the lis inside the ol tag and give them a background color of "green".
 13) Remove the div with a class of footer.
 
-# Grading criteria:
+## Grading criteria
 
 Code has a comment that notes which problem the code snippet is attempting to solve.
 
